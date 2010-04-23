@@ -1,0 +1,69 @@
+#!/bin/bash
+
+CLIENT_PATH=.
+NAME=SGClient
+VERSION=0.3.5
+CLIENT_DIR=$CLIENT_PATH/$NAME-v$VERSION
+
+HEADER_DIR=$CLIENT_DIR/Headers
+
+LIBRARY_NAME=lib$NAME.a
+SIM_LIBRARY_NAME=lib$NAME-sim.a
+
+LIBRARY_PATH=build/Release-iphoneos/$LIBRARY_NAME
+SIM_LIBRARY_PATH=build/Release-iphonesimulator/$LIBRARY_NAME
+
+ROOT_HEADER_PATH=./Classes
+
+HEADER_DOC_DIR=Resources/HeaderDoc
+DOC_DIR=$CLIENT_DIR/Documentation
+CSS_DIR=$DOC_DIR/css
+
+rm -rf $CLIENT_DIR
+mkdir $CLIENT_DIR $CLIENT_DIR/iphoneos $CLIENT_DIR/iphonesimulator $DOC_DIR $HEADER_DIR $CSS_DIR
+
+HEADER_FILES=$(find $ROOT_HEADER_PATH -name "*.h")
+for header_file in $HEADER_FILES
+do
+  echo Copying $header_file
+  cp $header_file $HEADER_DIR/
+done
+
+SDKs=( iphoneos3.1 iphonesimulator3.1 )
+
+for sdk in ${SDKs[@]}
+do
+  xcodebuild -target SGClient -sdk $sdk clean build
+  if [ $? -gt 0 ]; then
+      echo "ERROR!"
+      exit
+  fi
+
+done
+
+# Static Libraries
+cp $LIBRARY_PATH $CLIENT_DIR/iphoneos/$LIBRARY_NAME
+cp $SIM_LIBRARY_PATH $CLIENT_DIR/iphonesimulator/$LIBRARY_NAME
+
+# Produce HeaderDocs
+cp -r $HEADER_DOC_DIR/Images $DOC_DIR
+cp $HEADER_DOC_DIR/Documentation.config headerDoc2HTML.config
+cp $HEADER_DOC_DIR/SDK.hdoc $CLIENT_DIR/this.hdoc
+cp $HEADER_DOC_DIR/TOCmaster.css $CSS_DIR
+
+headerdoc2HTML -H -o $DOC_DIR $HEADER_DIR
+gatherheaderdoc $DOC_DIR $NAME.html
+
+rm headerDoc2HTML.config
+rm $CLIENT_DIR/this.hdoc
+
+cp README $CLIENT_DIR
+cp LICENSE.txt $CLIENT_DIR
+
+for i in $*
+do
+	case $i in
+	--zip)
+		zip -r $CLIENT_DIR.zip $CLIENT_DIR
+	esac
+done

@@ -1,0 +1,88 @@
+8
+
+dir
+18
+https://opensocial-objc-client.googlecode.com/svn/trunk/OAuth/Crypto
+https://opensocial-objc-client.googlecode.com/svn
+
+
+
+2009-02-06T00:32:08.031517Z
+4
+doll.cassie
+
+
+svn:special svn:externals svn:needs-lock
+
+Base64Transcoder.h
+file
+
+
+
+
+2009-02-10T03:05:44.000000Z
+2180848d29c77748438f71065c0206bb
+2009-02-06T00:32:08.031517Z
+4
+doll.cassie
+
+sha1.h
+file
+
+
+
+
+2009-02-10T03:05:44.000000Z
+f77e2528741d4976f31848121ae2c3ca
+2009-02-06T00:32:08.031517Z
+4
+doll.cassie
+
+hmac.c
+file
+
+
+
+
+2009-02-10T03:05:44.000000Z
+0adf2bb0b3e3886a70364b691c8907dc
+2009-02-06T00:32:08.031517Z
+4
+doll.cassie
+
+Base64Transcoder.c
+file
+
+
+
+
+2009-02-10T03:05:44.000000Z
+ac95de79f8e4dc74dc8447f9ff7ee0cc
+2009-02-06T00:32:08.031517Z
+4
+doll.cassie
+
+sha1.c
+file
+
+
+
+
+2009-02-10T03:05:44.000000Z
+37bc728438080420e40658d25723a1e5
+2009-02-06T00:32:08.031517Z
+4
+doll.cassie
+
+hmac.h
+file
+
+
+
+
+2009-02-10T03:05:44.000000Z
+dbc06eadd024af3f7da03f058968279f
+2009-02-06T00:32:08.031517Z
+4
+doll.cassie
+

@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	05B453721175FEFB003B987D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LSTAGPSAppDelegate.m */;
+		name = "LSTAGPSAppDelegate.m: 76";
+		rLen = 0;
+		rLoc = 2400;
+		rType = 0;
+		vrLen = 822;
+		vrLoc = 1830;
+	};
+	05B45416117605D5003B987D /* SGLocationService.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1314, 5447}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2025, 2576}";
+		};
+	};
+	05B45417117605D5003B987D /* SGLocationService.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 11102}}";
+			sepNavSelRange = "{2467, 27}";
+			sepNavVisRange = "{2079, 1019}";
+		};
+	};
+	05B4541A117605D5003B987D /* SGOAuth.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {846, 1079}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1559}";
+		};
+	};
+	05B4541B117605D5003B987D /* SGOAuth.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 2912}}";
+			sepNavSelRange = "{4083, 3}";
+			sepNavVisRange = "{3687, 1084}";
+		};
+	};
+	05D2646C117594E700DAD22A /* LSTAGPS */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LSTAGPS;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	05D264761175950600DAD22A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	05D264771175950600DAD22A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	05EFFD5B1175A30000CAC050 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* LSTAGPS-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/lsta/Code/LSTAGPS/LSTAGPS-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	05EFFD5F1175A3A400CAC050 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 14";
+		rLen = 0;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	05EFFD601175A3A400CAC050 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 10";
+		rLen = 0;
+		rLoc = 209;
+		rType = 0;
+		vrLen = 417;
+		vrLoc = 0;
+	};
+	05EFFDAB1175AD6700CAC050 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* LSTAGPSAppDelegate.h */;
+		name = "LSTAGPSAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 284;
+		rType = 0;
+		vrLen = 779;
+		vrLoc = 0;
+	};
+	05EFFDAC1175AD6700CAC050 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LSTAGPSAppDelegate.m */;
+		name = "LSTAGPSAppDelegate.m: 75";
+		rLen = 0;
+		rLoc = 2047;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 211;
+	};
+	05EFFDD41175AF6900CAC050 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LSTAGPSAppDelegate.m */;
+		name = "LSTAGPSAppDelegate.m: 76";
+		rLen = 0;
+		rLoc = 2400;
+		rType = 0;
+		vrLen = 888;
+		vrLoc = 1766;
+	};
+	1D3623240D0F684500981E51 /* LSTAGPSAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {846, 494}}";
+			sepNavSelRange = "{284, 0}";
+			sepNavVisRange = "{0, 779}";
+		};
+	};
+	1D3623250D0F684500981E51 /* LSTAGPSAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1205, 1261}}";
+			sepNavSelRange = "{2233, 0}";
+			sepNavVisRange = "{1830, 881}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* LSTAGPS */ = {
+		activeExec = 0;
+		executables = (
+			05D2646C117594E700DAD22A /* LSTAGPS */,
+		);
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {593, 260}}";
+			sepNavSelRange = "{316, 0}";
+			sepNavVisRange = "{0, 319}";
+			sepNavWindowFrame = "{{38, 65}, {977, 967}}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {846, 949}}";
+			sepNavSelRange = "{238, 0}";
+			sepNavVisRange = "{0, 524}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 05D2646C117594E700DAD22A /* LSTAGPS */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LSTAGPS */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* LSTAGPS */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 05D264771175950600DAD22A /* Code sense */;
+		executables = (
+			05D2646C117594E700DAD22A /* LSTAGPS */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					668,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					644,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					628,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292945457;
+			PBXWorkspaceStateSaveDate = 292945457;
+		};
+		perUserProjectItems = {
+			05B453721175FEFB003B987D /* PBXTextBookmark */ = 05B453721175FEFB003B987D /* PBXTextBookmark */;
+			05EFFD5B1175A30000CAC050 = 05EFFD5B1175A30000CAC050 /* PlistBookmark */;
+			05EFFD5F1175A3A400CAC050 = 05EFFD5F1175A3A400CAC050 /* PBXTextBookmark */;
+			05EFFD601175A3A400CAC050 = 05EFFD601175A3A400CAC050 /* PBXTextBookmark */;
+			05EFFDAB1175AD6700CAC050 = 05EFFDAB1175AD6700CAC050 /* PBXTextBookmark */;
+			05EFFDAC1175AD6700CAC050 = 05EFFDAC1175AD6700CAC050 /* PBXTextBookmark */;
+			05EFFDD41175AF6900CAC050 = 05EFFDD41175AF6900CAC050 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 05D264761175950600DAD22A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* LSTAGPS_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {846, 366}}";
+			sepNavSelRange = "{399, 0}";
+			sepNavVisRange = "{0, 405}";
+		};
+	};
+	8D1107310486CEB800E47090 /* LSTAGPS-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 86}, {977, 967}}";
+		};
+	};
+}

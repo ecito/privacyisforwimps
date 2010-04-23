@@ -1,0 +1,1272 @@
+TSGClient
+v7
+r0
+t292918342.141485
+cCheck dependencies
+cProcessPCH /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch.gch Resources/SGClient_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-cllppndsovzgkieshvwwjmohvrep/SGClient_Prefix.pch.gch Resources/SGClient_Prefix.pch normal armv6 c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch.gch Resources/SGClient_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-dimjbbbzeukgqyccwcqzjkyfzeqk/SGClient_Prefix.pch.gch Resources/SGClient_Prefix.pch normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/GeoJSON+NSArray.o /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/GeoJSON+NSDictionary.o /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSArrayAdditions.o /Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSStringAdditions.o /Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGGeoJSONEncoder.o /Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLocationService.o /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLocationTypes.o /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGOAuth.o /Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLayer.o /Users/lsta/Code/SGClient/Classes/Model/SGLayer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGRecord.o /Users/lsta/Code/SGClient/Classes/Model/SGRecord.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/Base64Transcoder.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/hmac.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/sha1.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/geohash.o /Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CDataScanner.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CDataScanner_Extensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSCharacterSet_Extensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONDeserializer.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONScanner.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONSerializer.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/GeoJSON+NSArray.o /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/libSGClient.a normal armv6
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/GeoJSON+NSDictionary.o /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSArrayAdditions.o /Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSStringAdditions.o /Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGGeoJSONEncoder.o /Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLocationService.o /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLocationTypes.o /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGOAuth.o /Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLayer.o /Users/lsta/Code/SGClient/Classes/Model/SGLayer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGRecord.o /Users/lsta/Code/SGClient/Classes/Model/SGRecord.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/Base64Transcoder.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/hmac.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/sha1.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/geohash.o /Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CDataScanner.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CDataScanner_Extensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSCharacterSet_Extensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONDeserializer.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONScanner.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONSerializer.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/libSGClient.a normal armv7
+cCreateUniversalBinary /Users/lsta/Code/SGClient/build/Debug-iphoneos/libSGClient.a normal "armv6 armv7"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004BBBFA370000000000000110
+t1270610487
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BB90F8900000000000C1720
+t1270419337
+s792352
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB719560000000000623920
+t1270290774
+s6437152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB7191F0000000000001466
+t1270290719
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004BB7D79C00000000000002F9
+t1270339484
+s761
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/math.h
+c000000004BAA768F00000000000004F1
+t1269462671
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/stdio.h
+c000000004BAAEB3F0000000000004174
+t1269492543
+s16756
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/stdlib.h
+c000000004BAAEB3F0000000000002DF5
+t1269492543
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/string.h
+c000000004BAAEB3F0000000000001731
+t1269492543
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdbool.h
+c000000004B99D4E70000000000000644
+t1268372711
+s1604
+
+N/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.h
+c000000004BC55C8B0000000000000C37
+t1271225483
+s3127
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m
+c000000004BC55C8B00000000000009EE
+t1271225483
+s2542
+i"GeoJSON+NSArray.h"
+
+N/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.h
+c000000004BC55C8B0000000000001A81
+t1271225483
+s6785
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m
+c000000004BC55C8B0000000000001277
+t1271225483
+s4727
+i"GeoJSON+NSDictionary.h"
+
+N/Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.h
+c000000004BC55C8B00000000000006F3
+t1271225483
+s1779
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m
+c000000004BC55C8B0000000000000724
+t1271225483
+s1828
+i"NSArrayAdditions.h"
+
+N/Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.h
+c000000004BC55C8B000000000000072E
+t1271225483
+s1838
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m
+c000000004BC55C8B0000000000000D24
+t1271225483
+s3364
+i"NSStringAdditions.h"
+
+N/Users/lsta/Code/SGClient/Classes/Additions/SGAdditions.h
+c000000004BC55C8B00000000000000F9
+t1271225483
+s249
+i"GeoJSON+NSArray.h"
+i"GeoJSON+NSDictionary.h"
+i"NSArrayAdditions.h"
+i"NSStringAdditions.h"
+
+N/Users/lsta/Code/SGClient/Classes/LocationService/SGAuthorization.h
+c000000004BC55C8B0000000000000956
+t1271225483
+s2390
+
+N/Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.h
+c000000004BC55C8B0000000000000ECF
+t1271225483
+s3791
+i<Foundation/Foundation.h>
+i"SGRecordAnnotation.h"
+i"GeoJSON+NSArray.h"
+i"GeoJSON+NSDictionary.h"
+
+N/Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m
+c000000004BC55C8B00000000000013C5
+t1271225483
+s5061
+i"SGGeoJSONEncoder.h"
+i"SGLocationTypes.h"
+i"SGRecord.h"
+
+N/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.h
+c000000004BC55C8B00000000000056A6
+t1271225483
+s22182
+i<Foundation/Foundation.h>
+i"SGRecordAnnotation.h"
+i"SGLocationTypes.h"
+i"SGAuthorization.h"
+
+N/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m
+c000000004BC55C8B0000000000007872
+t1271225483
+s30834
+i"SGLocationTypes.h"
+i"SGLocationService.h"
+i"SGOAuth.h"
+i"SGRecord.h"
+i"SGAdditions.h"
+i"geohash.h"
+i"CJSONSerializer.h"
+i"NSDictionary_JSONExtensions.h"
+i"SGGeoJSONEncoder.h"
+
+N/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.h
+c000000004BC55C8B0000000000000F6F
+t1271225483
+s3951
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m
+c000000004BC55C8B000000000000073A
+t1271225483
+s1850
+i"SGLocationTypes.h"
+
+N/Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.h
+c000000004BC55C8B0000000000000CDD
+t1271225483
+s3293
+i<Foundation/Foundation.h>
+i"SGAuthorization.h"
+
+N/Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m
+c000000004BC55C8B0000000000002021
+t1271225483
+s8225
+i"SGOAuth.h"
+i"SGLocationService.h"
+i"SGAdditions.h"
+i"hmac.h"
+i"Base64Transcoder.h"
+
+N/Users/lsta/Code/SGClient/Classes/Model/SGLayer.h
+c000000004BC55C8B00000000000034B5
+t1271225483
+s13493
+i<Foundation/Foundation.h>
+i"SGLocationTypes.h"
+i"SGLocationService.h"
+
+N/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m
+c000000004BC55C8B000000000000292A
+t1271225483
+s10538
+i"SGLayer.h"
+i"SGGeoJSONEncoder.h"
+i"SGRecordAnnotation.h"
+i"SGRecord.h"
+
+N/Users/lsta/Code/SGClient/Classes/Model/SGRecord.h
+c000000004BC55C8B000000000000144F
+t1271225483
+s5199
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"SGRecordAnnotation.h"
+
+N/Users/lsta/Code/SGClient/Classes/Model/SGRecord.m
+c000000004BC55C8B0000000000001084
+t1271225483
+s4228
+i"SGRecord.h"
+i"SGLocationTypes.h"
+i"GeoJSON+NSArray.h"
+i"GeoJSON+NSDictionary.h"
+
+N/Users/lsta/Code/SGClient/Classes/Model/SGRecordAnnotation.h
+c000000004BC55C8B0000000000001112
+t1271225483
+s4370
+i<MapKit/MapKit.h>
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c
+c000000004BC55C8B000000000000244A
+t1271225483
+s9290
+i"Base64Transcoder.h"
+i<math.h>
+i<string.h>
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.h
+c000000004BC55C8B0000000000000689
+t1271225483
+s1673
+i<stdlib.h>
+i<stdbool.h>
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c
+c000000004BC55C8B0000000000000B84
+t1271225483
+s2948
+i"sha1.h"
+i<stdlib.h>
+i<string.h>
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.h
+c000000004BC55C8B0000000000000591
+t1271225483
+s1425
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c
+c000000004BC55C8B0000000000001752
+t1271225483
+s5970
+i<stdio.h>
+i<string.h>
+i"sha1.h"
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.h
+c000000004BC55C8B0000000000000188
+t1271225483
+s392
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.h
+c000000004BC55C8B00000000000004B2
+t1271225483
+s1202
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m
+c000000004BC55C8B000000000000105D
+t1271225483
+s4189
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.h
+c000000004BC55C8B000000000000015C
+t1271225483
+s348
+i"CDataScanner.h"
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m
+c000000004BC55C8B0000000000000598
+t1271225483
+s1432
+i"CDataScanner_Extensions.h"
+i"NSCharacterSet_Extensions.h"
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.h
+c000000004BC55C8B000000000000012D
+t1271225483
+s301
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+c000000004BC55C8B00000000000002E4
+t1271225483
+s740
+i"NSCharacterSet_Extensions.h"
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.h
+c000000004BC55C8B000000000000014A
+t1271225483
+s330
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+c000000004BC55C8B00000000000001C5
+t1271225483
+s453
+i"NSDictionary_JSONExtensions.h"
+i"CJSONDeserializer.h"
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.h
+c000000004BC55C8B0000000000000140
+t1271225483
+s320
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m
+c000000004BC55C8B0000000000000256
+t1271225483
+s598
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.h
+c000000004BC55C8B0000000000000320
+t1271225483
+s800
+i"CDataScanner.h"
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m
+c000000004BC55C8B00000000000028B7
+t1271225483
+s10423
+i"CJSONScanner.h"
+i"NSCharacterSet_Extensions.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.h
+c000000004BC55C8B000000000000022E
+t1271225483
+s558
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m
+c000000004BC55C8B00000000000012B3
+t1271225483
+s4787
+i"CJSONSerializer.h"
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c
+c000000004BC55C8B0000000000001A36
+t1271225483
+s6710
+i"geohash.h"
+i<stdlib.h>
+i<string.h>
+i<stdio.h>
+
+N/Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.h
+c000000004BC55C8B0000000000000381
+t1271225483
+s897
+
+N/Users/lsta/Code/SGClient/Resources/SGClient_Prefix.pch
+c000000004BC55C8B0000000000000109
+t1271225483
+s265
+i<Foundation/Foundation.h>
+
+N/Users/lsta/Code/SGClient/build/Debug-iphoneos/libSGClient.a
+t1271225542
+s720688
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/Base64Transcoder.o
+t1271225539
+s9516
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CDataScanner.o
+t1271225540
+s22484
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CDataScanner_Extensions.o
+t1271225540
+s10032
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONDeserializer.o
+t1271225540
+s8760
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONScanner.o
+t1271225540
+s30316
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONSerializer.o
+t1271225540
+s20504
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/GeoJSON+NSArray.o
+t1271225538
+s10332
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/GeoJSON+NSDictionary.o
+t1271225538
+s18280
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSArrayAdditions.o
+t1271225538
+s6396
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSCharacterSet_Extensions.o
+t1271225540
+s7148
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+t1271225540
+s7260
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSStringAdditions.o
+t1271225539
+s8844
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGClient.LinkFileList
+c000000004BC55CC20000000000000975
+t1271225538
+s2421
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGGeoJSONEncoder.o
+t1271225539
+s14856
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLayer.o
+t1271225539
+s28668
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLocationService.o
+t1271225539
+s66508
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLocationTypes.o
+t1271225539
+s4872
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGOAuth.o
+t1271225539
+s28100
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGRecord.o
+t1271225539
+s26868
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/geohash.o
+t1271225540
+s10684
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/hmac.o
+t1271225539
+s5172
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/libSGClient.a
+t1271225540
+s367304
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/sha1.o
+t1271225540
+s15792
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/Base64Transcoder.o
+t1271225541
+s8836
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CDataScanner.o
+t1271225541
+s22116
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CDataScanner_Extensions.o
+t1271225541
+s9968
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONDeserializer.o
+t1271225541
+s8724
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONScanner.o
+t1271225542
+s26808
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONSerializer.o
+t1271225542
+s19988
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/GeoJSON+NSArray.o
+t1271225540
+s10248
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/GeoJSON+NSDictionary.o
+t1271225540
+s17952
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSArrayAdditions.o
+t1271225540
+s6392
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSCharacterSet_Extensions.o
+t1271225541
+s7140
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o
+t1271225541
+s7240
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSStringAdditions.o
+t1271225540
+s8792
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGClient.LinkFileList
+c000000004BC55CC20000000000000975
+t1271225538
+s2421
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGGeoJSONEncoder.o
+t1271225540
+s14700
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLayer.o
+t1271225541
+s28232
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLocationService.o
+t1271225541
+s64252
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLocationTypes.o
+t1271225540
+s4872
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGOAuth.o
+t1271225541
+s27460
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGRecord.o
+t1271225541
+s26412
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/geohash.o
+t1271225541
+s9048
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/hmac.o
+t1271225541
+s4988
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/libSGClient.a
+t1271225542
+s353336
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/sha1.o
+t1271225541
+s13268
+
+N/var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-cllppndsovzgkieshvwwjmohvrep/SGClient_Prefix.pch.gch
+t1271225538
+s1261796
+
+N/var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-dimjbbbzeukgqyccwcqzjkyfzeqk/SGClient_Prefix.pch.gch
+t1271225538
+s1716452
+
+N/var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch.gch
+t1271225538
+s6720068
+
+N/var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch.gch
+t1271225538
+s7178820
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292918338#292918338#0(0"0(0#1#0"4300739032#0"0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/Base64Transcoder.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c normal armv6 c com.apple.compilers.gcc.4_2
+s292918339.779600
+e292918339.903721
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/Base64Transcoder.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c292918339#292918339#0(0"0(0#0#71"/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c4300739032#1664"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-cllppndsovzgkieshvwwjmohvrep/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/Base64Transcoder.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CDataScanner.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918340.037881
+e292918340.178089
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CDataScanner.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m292918340#292918340#0(0"0(0#0#70"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m4300739032#1669"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CDataScanner.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CDataScanner_Extensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918340.157109
+e292918340.261940
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CDataScanner_Extensions.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m292918340#292918340#0(0"0(0#0#92"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m4300739032#1702"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CDataScanner_Extensions.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONDeserializer.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918340.262067
+e292918340.351099
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONDeserializer.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m292918340#292918340#0(0"0(0#0#80"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m4300739032#1684"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONDeserializer.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONScanner.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918340.330613
+e292918340.523846
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONScanner.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m292918340#292918340#0(0"0(0#0#75"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m4300739032#1674"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONScanner.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONSerializer.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918340.351235
+e292918340.465044
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONSerializer.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m292918340#292918340#0(0"0(0#0#78"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m4300739032#1680"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/CJSONSerializer.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/GeoJSON+NSArray.o /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918338.791402
+e292918338.895985
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/GeoJSON+NSArray.o
+x/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m292918338#292918338#0(0"0(0#0#61"/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m4300739032#1663"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/GeoJSON+NSArray.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/GeoJSON+NSDictionary.o /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918338.792786
+e292918338.930667
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/GeoJSON+NSDictionary.o
+x/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m292918338#292918338#0(0"0(0#0#66"/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m4300739032#1673"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/GeoJSON+NSDictionary.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSArrayAdditions.o /Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918338.896119
+e292918338.974019
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSArrayAdditions.o
+x/Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m292918338#292918338#0(0"0(0#0#62"/Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m4300739032#1665"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSArrayAdditions.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSCharacterSet_Extensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918340.178263
+e292918340.250392
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSCharacterSet_Extensions.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m292918340#292918340#0(0"0(0#0#94"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m4300739032#1706"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSCharacterSet_Extensions.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918340.250578
+e292918340.330483
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m292918340#292918340#0(0"0(0#0#96"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m4300739032#1710"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSStringAdditions.o /Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918338.930787
+e292918339.008766
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSStringAdditions.o
+x/Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m292918338#292918339#0(0"0(0#0#63"/Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m4300739032#1667"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/NSStringAdditions.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGGeoJSONEncoder.o /Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918338.974160
+e292918339.221507
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGGeoJSONEncoder.o
+x/Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m292918338#292918339#0(0"0(0#0#68"/Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m4300739032#1671"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGGeoJSONEncoder.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLayer.o /Users/lsta/Code/SGClient/Classes/Model/SGLayer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918339.503448
+e292918339.779471
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLayer.o
+x/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m: In function '-[SGLayer addRecordAnnotation:]':
+o/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m:107: warning: '-setLayer:' not found in protocol(s)
+lSLF07#2@57"Compile /Users/lsta/Code/SGClient/Classes/Model/SGLayer.m292918339#292918339#0(200"/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m: In function '-[SGLayer addRecordAnnotation:]':/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m:107: warning: '-setLayer:' not found in protocol(s)1(22@37"'-setLayer:' not found in protocol(s)292918339#98#102#0(6@49"/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m292918283#107#0#107#0#28"'*' not found in protocol(s)0(0#0#49"/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m4300739032#1643"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Model/SGLayer.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLayer.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLocationService.o /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918339.008899
+e292918339.503324
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLocationService.o
+x/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m292918339#292918339#0(0"0(0#0#69"/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m4300739032#1673"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLocationService.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLocationTypes.o /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918339.221631
+e292918339.284740
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLocationTypes.o
+x/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m292918339#292918339#0(0"0(0#0#67"/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m4300739032#1669"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGLocationTypes.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGOAuth.o /Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918339.284870
+e292918339.551217
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGOAuth.o
+x/Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m292918339#292918339#0(0"0(0#0#59"/Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m4300739032#1653"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGOAuth.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGRecord.o /Users/lsta/Code/SGClient/Classes/Model/SGRecord.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918339.551478
+e292918339.793137
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGRecord.o
+x/Users/lsta/Code/SGClient/Classes/Model/SGRecord.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/lsta/Code/SGClient/Classes/Model/SGRecord.m292918339#292918339#0(0"0(0#0#50"/Users/lsta/Code/SGClient/Classes/Model/SGRecord.m4300739032#1645"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Model/SGRecord.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGRecord.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/geohash.o /Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c normal armv6 c com.apple.compilers.gcc.4_2
+s292918339.903846
+e292918340.037755
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/geohash.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c292918339#292918340#0(0"0(0#0#66"/Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c4300739032#1650"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-cllppndsovzgkieshvwwjmohvrep/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/geohash.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/hmac.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c normal armv6 c com.apple.compilers.gcc.4_2
+s292918339.793273
+e292918339.869407
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/hmac.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c292918339#292918339#0(0"0(0#0#59"/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c4300739032#1640"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-cllppndsovzgkieshvwwjmohvrep/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/hmac.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/sha1.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c normal armv6 c com.apple.compilers.gcc.4_2
+s292918339.869538
+e292918340.156967
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/sha1.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c292918339#292918340#0(0"0(0#0#59"/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c4300739032#1640"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-cllppndsovzgkieshvwwjmohvrep/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/sha1.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/Base64Transcoder.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c normal armv7 c com.apple.compilers.gcc.4_2
+s292918341.474311
+e292918341.584565
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/Base64Transcoder.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c292918341#292918341#0(0"0(0#0#71"/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c4300739032#1664"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-dimjbbbzeukgqyccwcqzjkyfzeqk/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/Base64Transcoder.c -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/Base64Transcoder.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CDataScanner.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918341.667068
+e292918341.832996
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CDataScanner.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m292918341#292918341#0(0"0(0#0#70"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m4300739032#1669"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/CDataScanner.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CDataScanner.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CDataScanner_Extensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918341.728719
+e292918341.800687
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CDataScanner_Extensions.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m292918341#292918341#0(0"0(0#0#92"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m4300739032#1702"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/CDataScanner_Extensions.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CDataScanner_Extensions.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONDeserializer.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918341.881510
+e292918341.962666
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONDeserializer.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m292918341#292918341#0(0"0(0#0#80"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m4300739032#1684"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONDeserializer.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONDeserializer.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONScanner.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918341.913928
+e292918342.062264
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONScanner.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m292918341#292918342#0(0"0(0#0#75"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m4300739032#1674"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONScanner.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONScanner.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONSerializer.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918341.962802
+e292918342.073134
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONSerializer.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m292918341#292918342#0(0"0(0#0#78"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m4300739032#1680"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/JSON/CJSONSerializer.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/CJSONSerializer.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/GeoJSON+NSArray.o /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918340.465275
+e292918340.608048
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/GeoJSON+NSArray.o
+x/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m292918340#292918340#0(0"0(0#0#61"/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m4300739032#1663"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSArray.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/GeoJSON+NSArray.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/GeoJSON+NSDictionary.o /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918340.545455
+e292918340.699065
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/GeoJSON+NSDictionary.o
+x/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m292918340#292918340#0(0"0(0#0#66"/Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m4300739032#1673"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Additions/GeoJSON+NSDictionary.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/GeoJSON+NSDictionary.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSArrayAdditions.o /Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918340.608172
+e292918340.688124
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSArrayAdditions.o
+x/Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m292918340#292918340#0(0"0(0#0#62"/Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m4300739032#1665"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Additions/NSArrayAdditions.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSArrayAdditions.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSCharacterSet_Extensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918341.800838
+e292918341.881370
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSCharacterSet_Extensions.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m292918341#292918341#0(0"0(0#0#94"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m4300739032#1706"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSCharacterSet_Extensions.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSCharacterSet_Extensions.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918341.833125
+e292918341.913775
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m292918341#292918341#0(0"0(0#0#96"/Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m4300739032#1710"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/TouchJSON/Extensions/NSDictionary_JSONExtensions.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSDictionary_JSONExtensions.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSStringAdditions.o /Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918340.688257
+e292918340.765823
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSStringAdditions.o
+x/Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m292918340#292918340#0(0"0(0#0#63"/Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m4300739032#1667"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Additions/NSStringAdditions.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/NSStringAdditions.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGGeoJSONEncoder.o /Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918340.699191
+e292918340.934148
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGGeoJSONEncoder.o
+x/Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m292918340#292918340#0(0"0(0#0#68"/Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m4300739032#1671"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/LocationService/SGGeoJSONEncoder.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGGeoJSONEncoder.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLayer.o /Users/lsta/Code/SGClient/Classes/Model/SGLayer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918341.237753
+e292918341.497239
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLayer.o
+x/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m: In function '-[SGLayer addRecordAnnotation:]':
+o/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m:107: warning: '-setLayer:' not found in protocol(s)
+lSLF07#2@57"Compile /Users/lsta/Code/SGClient/Classes/Model/SGLayer.m292918341#292918341#0(200"/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m: In function '-[SGLayer addRecordAnnotation:]':/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m:107: warning: '-setLayer:' not found in protocol(s)1(22@37"'-setLayer:' not found in protocol(s)292918341#98#102#0(6@49"/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m292918283#107#0#107#0#28"'*' not found in protocol(s)0(0#0#49"/Users/lsta/Code/SGClient/Classes/Model/SGLayer.m4300739032#1643"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Model/SGLayer.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLayer.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLocationService.o /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918340.765952
+e292918341.237581
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLocationService.o
+x/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m292918340#292918341#0(0"0(0#0#69"/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m4300739032#1673"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationService.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLocationService.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLocationTypes.o /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918340.934274
+e292918340.997283
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLocationTypes.o
+x/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m292918340#292918340#0(0"0(0#0#67"/Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m4300739032#1669"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/LocationService/SGLocationTypes.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGLocationTypes.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGOAuth.o /Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918340.997421
+e292918341.258484
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGOAuth.o
+x/Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m292918340#292918341#0(0"0(0#0#59"/Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m4300739032#1653"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/LocationService/SGOAuth.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGOAuth.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGRecord.o /Users/lsta/Code/SGClient/Classes/Model/SGRecord.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918341.258610
+e292918341.474163
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGRecord.o
+x/Users/lsta/Code/SGClient/Classes/Model/SGRecord.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/lsta/Code/SGClient/Classes/Model/SGRecord.m292918341#292918341#0(0"0(0#0#50"/Users/lsta/Code/SGClient/Classes/Model/SGRecord.m4300739032#1645"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Classes/Model/SGRecord.m -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGRecord.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/geohash.o /Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c normal armv7 c com.apple.compilers.gcc.4_2
+s292918341.584693
+e292918341.666939
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/geohash.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c292918341#292918341#0(0"0(0#0#66"/Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c4300739032#1650"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-dimjbbbzeukgqyccwcqzjkyfzeqk/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/libgeohash/geohash.c -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/geohash.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/hmac.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c normal armv7 c com.apple.compilers.gcc.4_2
+s292918341.497364
+e292918341.562574
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/hmac.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c292918341#292918341#0(0"0(0#0#59"/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c4300739032#1640"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-dimjbbbzeukgqyccwcqzjkyfzeqk/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/hmac.c -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/hmac.o0#
+
+CCompileC build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/sha1.o /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c normal armv7 c com.apple.compilers.gcc.4_2
+s292918341.562699
+e292918341.728586
+r1
+xCompileC
+xbuild/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/sha1.o
+x/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c292918341#292918341#0(0"0(0#0#59"/Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c4300739032#1640"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -include /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-dimjbbbzeukgqyccwcqzjkyfzeqk/SGClient_Prefix.pch -c /Users/lsta/Code/SGClient/Resources/3rd-Party/Crypto/sha1.c -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/sha1.o0#
+
+CCreateUniversalBinary /Users/lsta/Code/SGClient/build/Debug-iphoneos/libSGClient.a normal "armv6 armv7"
+s292918342.108164
+e292918342.141407
+r1
+xCreateUniversalBinary
+x/Users/lsta/Code/SGClient/build/Debug-iphoneos/libSGClient.a
+xnormal
+xarmv6 armv7
+lSLF07#2@77"CreateUniversalBinary build/Debug-iphoneos/libSGClient.a normal "armv6 armv7"292918342#292918342#0(0"0(0#0#37"/Users/lsta/Code/SGClient/armv6 armv74300739032#522"    cd /Users/lsta/Code/SGClient    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/libSGClient.a /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/libSGClient.a -o /Users/lsta/Code/SGClient/build/Debug-iphoneos/libSGClient.a0#
+
+CLibtool /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/libSGClient.a normal armv6
+s292918340.523968
+e292918340.545321
+r1
+xLibtool
+x/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/libSGClient.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@106"Libtool build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/libSGClient.a normal armv6292918340#292918340#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"4300739032#721"    cd /Users/lsta/Code/SGClient    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/lsta/Code/SGClient/build/Debug-iphoneos -filelist /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/SGClient.LinkFileList -ObjC -framework Foundation -framework CoreLocation -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv6/libSGClient.a0#
+
+CLibtool /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/libSGClient.a normal armv7
+s292918342.073257
+e292918342.108011
+r1
+xLibtool
+x/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/libSGClient.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@106"Libtool build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/libSGClient.a normal armv7292918342#292918342#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"4300739032#721"    cd /Users/lsta/Code/SGClient    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/lsta/Code/SGClient/build/Debug-iphoneos -filelist /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/SGClient.LinkFileList -ObjC -framework Foundation -framework CoreLocation -o /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/Objects-normal/armv7/libSGClient.a0#
+
+CProcessPCH /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-cllppndsovzgkieshvwwjmohvrep/SGClient_Prefix.pch.gch Resources/SGClient_Prefix.pch normal armv6 c com.apple.compilers.gcc.4_2
+s292918338.035840
+e292918338.138970
+r1
+xProcessPCH
+x/var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-cllppndsovzgkieshvwwjmohvrep/SGClient_Prefix.pch.gch
+xResources/SGClient_Prefix.pch
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile Resources/SGClient_Prefix.pch292918338#292918338#0(0"0(0#0#55"/Users/lsta/Code/SGClient/Resources/SGClient_Prefix.pch4300739032#1533"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -c /Users/lsta/Code/SGClient/Resources/SGClient_Prefix.pch -o /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-cllppndsovzgkieshvwwjmohvrep/SGClient_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-dimjbbbzeukgqyccwcqzjkyfzeqk/SGClient_Prefix.pch.gch Resources/SGClient_Prefix.pch normal armv7 c com.apple.compilers.gcc.4_2
+s292918338.701170
+e292918338.791276
+r1
+xProcessPCH
+x/var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-dimjbbbzeukgqyccwcqzjkyfzeqk/SGClient_Prefix.pch.gch
+xResources/SGClient_Prefix.pch
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile Resources/SGClient_Prefix.pch292918338#292918338#0(0"0(0#0#55"/Users/lsta/Code/SGClient/Resources/SGClient_Prefix.pch4300739032#1533"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -c /Users/lsta/Code/SGClient/Resources/SGClient_Prefix.pch -o /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-dimjbbbzeukgqyccwcqzjkyfzeqk/SGClient_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch.gch Resources/SGClient_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s292918338.034552
+e292918338.701006
+r1
+xProcessPCH
+x/var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch.gch
+xResources/SGClient_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile Resources/SGClient_Prefix.pch292918338#292918338#0(0"0(0#0#55"/Users/lsta/Code/SGClient/Resources/SGClient_Prefix.pch4300739032#1543"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv6 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -c /Users/lsta/Code/SGClient/Resources/SGClient_Prefix.pch -o /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-fdbmmlqozmeimsaishpubtjllibf/SGClient_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch.gch Resources/SGClient_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292918338.139121
+e292918338.758563
+r1
+xProcessPCH
+x/var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch.gch
+xResources/SGClient_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile Resources/SGClient_Prefix.pch292918338#292918338#0(0"0(0#0#55"/Users/lsta/Code/SGClient/Resources/SGClient_Prefix.pch4300739032#1543"    cd /Users/lsta/Code/SGClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DSG_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-generated-files.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-own-target-headers.hmap -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-all-target-headers.hmap -iquote /Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/SGClient-project-headers.hmap -F/Users/lsta/Code/SGClient/build/Debug-iphoneos -I/Users/lsta/Code/SGClient/build/Debug-iphoneos/include -IClasses -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources/armv7 -I/Users/lsta/Code/SGClient/build/SGClient.build/Debug-iphoneos/SGClient.build/DerivedSources -c /Users/lsta/Code/SGClient/Resources/SGClient_Prefix.pch -o /var/folders/rP/rPdGi-g7F3Sn-ebT6mspg++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SGClient_Prefix-gccyxfnbzogagzegvpckldwnuptg/SGClient_Prefix.pch.gch0#
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/OAuth/Crypto
+END
+Base64Transcoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/OAuth/Crypto/Base64Transcoder.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/OAuth/Crypto/sha1.h
+END
+hmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/OAuth/Crypto/hmac.c
+END
+Base64Transcoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/OAuth/Crypto/Base64Transcoder.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/OAuth/Crypto/sha1.c
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/trunk/OAuth/Crypto/hmac.h
+END

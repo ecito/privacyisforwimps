@@ -1,0 +1,5 @@
+iPhone 4.0 background location + SimpleGeo + Google maps showing current/past location
+
+This is just a quick test of the background location. Background behaviour stuff can be improved a lot.
+
+Be sure to add your SimpleGeo api key and secret, and define a layer and record id. I just use my username as a record id

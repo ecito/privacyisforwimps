@@ -1,0 +1,711 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4A0943BD115C17CB007E3538 /* SGNearbyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A418112095BE00D4E22D /* SGNearbyTests.m */; };
+		4A1B13761162AA8300E194F1 /* SGLocationServiceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A417112095BE00D4E22D /* SGLocationServiceTests.m */; };
+		4A1B13991162B64000E194F1 /* SGGeoJSONEncoderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A414112095BE00D4E22D /* SGGeoJSONEncoderTests.m */; };
+		4A1B139A1162B64100E194F1 /* SGLayerTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A415112095BE00D4E22D /* SGLayerTest.m */; };
+		4A1B139B1162B64200E194F1 /* SGRecordTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A419112095BE00D4E22D /* SGRecordTests.m */; };
+		4A1B139C1162B64300E194F1 /* SGSpotRankTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A094381115C028E007E3538 /* SGSpotRankTests.m */; };
+		4A64A41C112095BE00D4E22D /* GeoJSON+NSArray.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3AE112095BE00D4E22D /* GeoJSON+NSArray.h */; };
+		4A64A41D112095BE00D4E22D /* GeoJSON+NSArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3AF112095BE00D4E22D /* GeoJSON+NSArray.m */; };
+		4A64A41E112095BE00D4E22D /* GeoJSON+NSDictionary.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3B0112095BE00D4E22D /* GeoJSON+NSDictionary.h */; };
+		4A64A41F112095BE00D4E22D /* GeoJSON+NSDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3B1112095BE00D4E22D /* GeoJSON+NSDictionary.m */; };
+		4A64A420112095BE00D4E22D /* NSArrayAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3B2112095BE00D4E22D /* NSArrayAdditions.h */; };
+		4A64A421112095BE00D4E22D /* NSArrayAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3B3112095BE00D4E22D /* NSArrayAdditions.m */; };
+		4A64A422112095BE00D4E22D /* NSStringAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3B4112095BE00D4E22D /* NSStringAdditions.h */; };
+		4A64A423112095BE00D4E22D /* NSStringAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3B5112095BE00D4E22D /* NSStringAdditions.m */; };
+		4A64A424112095BE00D4E22D /* SGAuthorization.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3B7112095BE00D4E22D /* SGAuthorization.h */; };
+		4A64A425112095BE00D4E22D /* SGGeoJSONEncoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3B8112095BE00D4E22D /* SGGeoJSONEncoder.h */; };
+		4A64A426112095BE00D4E22D /* SGGeoJSONEncoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3B9112095BE00D4E22D /* SGGeoJSONEncoder.m */; };
+		4A64A427112095BE00D4E22D /* SGLocationService.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3BA112095BE00D4E22D /* SGLocationService.h */; };
+		4A64A428112095BE00D4E22D /* SGLocationService.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3BB112095BE00D4E22D /* SGLocationService.m */; };
+		4A64A429112095BE00D4E22D /* SGLocationTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3BC112095BE00D4E22D /* SGLocationTypes.h */; };
+		4A64A42A112095BE00D4E22D /* SGLocationTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3BD112095BE00D4E22D /* SGLocationTypes.m */; };
+		4A64A42B112095BE00D4E22D /* SGOAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3BE112095BE00D4E22D /* SGOAuth.h */; };
+		4A64A42C112095BE00D4E22D /* SGOAuth.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3BF112095BE00D4E22D /* SGOAuth.m */; };
+		4A64A42D112095BE00D4E22D /* SGLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3C1112095BE00D4E22D /* SGLayer.h */; };
+		4A64A42E112095BE00D4E22D /* SGLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3C2112095BE00D4E22D /* SGLayer.m */; };
+		4A64A42F112095BE00D4E22D /* SGRecord.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3C3112095BE00D4E22D /* SGRecord.h */; };
+		4A64A430112095BE00D4E22D /* SGRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3C4112095BE00D4E22D /* SGRecord.m */; };
+		4A64A431112095BE00D4E22D /* SGRecordAnnotation.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3C5112095BE00D4E22D /* SGRecordAnnotation.h */; };
+		4A64A432112095BE00D4E22D /* Base64Transcoder.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3CA112095BE00D4E22D /* Base64Transcoder.c */; };
+		4A64A433112095BE00D4E22D /* Base64Transcoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3CB112095BE00D4E22D /* Base64Transcoder.h */; };
+		4A64A434112095BE00D4E22D /* hmac.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3CC112095BE00D4E22D /* hmac.c */; };
+		4A64A435112095BE00D4E22D /* hmac.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3CD112095BE00D4E22D /* hmac.h */; };
+		4A64A436112095BE00D4E22D /* sha1.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3CE112095BE00D4E22D /* sha1.c */; };
+		4A64A437112095BE00D4E22D /* sha1.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3CF112095BE00D4E22D /* sha1.h */; };
+		4A64A438112095BE00D4E22D /* geohash.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3F8112095BE00D4E22D /* geohash.c */; };
+		4A64A439112095BE00D4E22D /* geohash.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A3F9112095BE00D4E22D /* geohash.h */; };
+		4A64A43C112095BE00D4E22D /* CDataScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A401112095BE00D4E22D /* CDataScanner.h */; };
+		4A64A43D112095BE00D4E22D /* CDataScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A402112095BE00D4E22D /* CDataScanner.m */; };
+		4A64A43E112095BE00D4E22D /* CDataScanner_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A404112095BE00D4E22D /* CDataScanner_Extensions.h */; };
+		4A64A43F112095BE00D4E22D /* CDataScanner_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A405112095BE00D4E22D /* CDataScanner_Extensions.m */; };
+		4A64A440112095BE00D4E22D /* NSCharacterSet_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A406112095BE00D4E22D /* NSCharacterSet_Extensions.h */; };
+		4A64A441112095BE00D4E22D /* NSCharacterSet_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A407112095BE00D4E22D /* NSCharacterSet_Extensions.m */; };
+		4A64A442112095BE00D4E22D /* NSDictionary_JSONExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A408112095BE00D4E22D /* NSDictionary_JSONExtensions.h */; };
+		4A64A443112095BE00D4E22D /* NSDictionary_JSONExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A409112095BE00D4E22D /* NSDictionary_JSONExtensions.m */; };
+		4A64A444112095BE00D4E22D /* CJSONDeserializer.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A40B112095BE00D4E22D /* CJSONDeserializer.h */; };
+		4A64A445112095BE00D4E22D /* CJSONDeserializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A40C112095BE00D4E22D /* CJSONDeserializer.m */; };
+		4A64A446112095BE00D4E22D /* CJSONScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A40D112095BE00D4E22D /* CJSONScanner.h */; };
+		4A64A447112095BE00D4E22D /* CJSONScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A40E112095BE00D4E22D /* CJSONScanner.m */; };
+		4A64A448112095BE00D4E22D /* CJSONSerializer.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A40F112095BE00D4E22D /* CJSONSerializer.h */; };
+		4A64A449112095BE00D4E22D /* CJSONSerializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A410112095BE00D4E22D /* CJSONSerializer.m */; };
+		4A64A44A112095BE00D4E22D /* SGClient_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = 4A64A411112095BE00D4E22D /* SGClient_Prefix.pch */; };
+		4A64A51F1120978F00D4E22D /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A64A51E1120978F00D4E22D /* CoreLocation.framework */; };
+		4A64B4C11120A6D300D4E22D /* GeoJSON+NSArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3AF112095BE00D4E22D /* GeoJSON+NSArray.m */; };
+		4A64B4C21120A6D300D4E22D /* GeoJSON+NSDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3B1112095BE00D4E22D /* GeoJSON+NSDictionary.m */; };
+		4A64B4C31120A6D400D4E22D /* NSArrayAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3B3112095BE00D4E22D /* NSArrayAdditions.m */; };
+		4A64B4C41120A6D500D4E22D /* NSStringAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3B5112095BE00D4E22D /* NSStringAdditions.m */; };
+		4A64B4C51120A6D900D4E22D /* SGOAuth.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3BF112095BE00D4E22D /* SGOAuth.m */; };
+		4A64B4C71120A6DA00D4E22D /* SGLocationService.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3BB112095BE00D4E22D /* SGLocationService.m */; };
+		4A64B4C91120A6DE00D4E22D /* SGRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3C4112095BE00D4E22D /* SGRecord.m */; };
+		4A64B4CA1120A6DF00D4E22D /* SGLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3C2112095BE00D4E22D /* SGLayer.m */; };
+		4A64B4D41120A78200D4E22D /* SGAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64B4D31120A78200D4E22D /* SGAdditions.h */; };
+		4A64B5141120B99800D4E22D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
+		4A64B5151120B99800D4E22D /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A64A51E1120978F00D4E22D /* CoreLocation.framework */; };
+		4A64B52E1120B9CF00D4E22D /* SGClient.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64B52D1120B9CF00D4E22D /* SGClient.h */; };
+		4A64B5481120BB0C00D4E22D /* SGTestingMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A64B5471120BB0C00D4E22D /* SGTestingMacros.h */; };
+		4A64B5571120BB8B00D4E22D /* Base64Transcoder.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3CA112095BE00D4E22D /* Base64Transcoder.c */; };
+		4A64B5581120BB8C00D4E22D /* CDataScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A402112095BE00D4E22D /* CDataScanner.m */; };
+		4A64B5591120BB8C00D4E22D /* CDataScanner_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A405112095BE00D4E22D /* CDataScanner_Extensions.m */; };
+		4A64B55A1120BB8D00D4E22D /* CJSONDeserializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A40C112095BE00D4E22D /* CJSONDeserializer.m */; };
+		4A64B55B1120BB8E00D4E22D /* CJSONScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A40E112095BE00D4E22D /* CJSONScanner.m */; };
+		4A64B55C1120BB8F00D4E22D /* CJSONSerializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A410112095BE00D4E22D /* CJSONSerializer.m */; };
+		4A64B55D1120BB8F00D4E22D /* geohash.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3F8112095BE00D4E22D /* geohash.c */; };
+		4A64B55E1120BB9000D4E22D /* sha1.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3CE112095BE00D4E22D /* sha1.c */; };
+		4A64B55F1120BB9100D4E22D /* NSDictionary_JSONExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A409112095BE00D4E22D /* NSDictionary_JSONExtensions.m */; };
+		4A64B5601120BB9100D4E22D /* NSCharacterSet_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A407112095BE00D4E22D /* NSCharacterSet_Extensions.m */; };
+		4A64B5611120BB9200D4E22D /* hmac.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3CC112095BE00D4E22D /* hmac.c */; };
+		4A64B56B1120BC8200D4E22D /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A64B56A1120BC8200D4E22D /* SenTestingKit.framework */; };
+		4AE03B69115547EC00096B6E /* SGLocationTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3BD112095BE00D4E22D /* SGLocationTypes.m */; };
+		4AE03B6A115547ED00096B6E /* SGGeoJSONEncoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A64A3B9112095BE00D4E22D /* SGGeoJSONEncoder.m */; };
+		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4A094381115C028E007E3538 /* SGSpotRankTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGSpotRankTests.m; sourceTree = "<group>"; };
+		4A64A3AE112095BE00D4E22D /* GeoJSON+NSArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GeoJSON+NSArray.h"; sourceTree = "<group>"; };
+		4A64A3AF112095BE00D4E22D /* GeoJSON+NSArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "GeoJSON+NSArray.m"; sourceTree = "<group>"; };
+		4A64A3B0112095BE00D4E22D /* GeoJSON+NSDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GeoJSON+NSDictionary.h"; sourceTree = "<group>"; };
+		4A64A3B1112095BE00D4E22D /* GeoJSON+NSDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "GeoJSON+NSDictionary.m"; sourceTree = "<group>"; };
+		4A64A3B2112095BE00D4E22D /* NSArrayAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSArrayAdditions.h; sourceTree = "<group>"; };
+		4A64A3B3112095BE00D4E22D /* NSArrayAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSArrayAdditions.m; sourceTree = "<group>"; };
+		4A64A3B4112095BE00D4E22D /* NSStringAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSStringAdditions.h; sourceTree = "<group>"; };
+		4A64A3B5112095BE00D4E22D /* NSStringAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSStringAdditions.m; sourceTree = "<group>"; };
+		4A64A3B7112095BE00D4E22D /* SGAuthorization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGAuthorization.h; sourceTree = "<group>"; };
+		4A64A3B8112095BE00D4E22D /* SGGeoJSONEncoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGGeoJSONEncoder.h; sourceTree = "<group>"; };
+		4A64A3B9112095BE00D4E22D /* SGGeoJSONEncoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGGeoJSONEncoder.m; sourceTree = "<group>"; };
+		4A64A3BA112095BE00D4E22D /* SGLocationService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGLocationService.h; sourceTree = "<group>"; };
+		4A64A3BB112095BE00D4E22D /* SGLocationService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGLocationService.m; sourceTree = "<group>"; };
+		4A64A3BC112095BE00D4E22D /* SGLocationTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGLocationTypes.h; sourceTree = "<group>"; };
+		4A64A3BD112095BE00D4E22D /* SGLocationTypes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGLocationTypes.m; sourceTree = "<group>"; };
+		4A64A3BE112095BE00D4E22D /* SGOAuth.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGOAuth.h; sourceTree = "<group>"; };
+		4A64A3BF112095BE00D4E22D /* SGOAuth.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGOAuth.m; sourceTree = "<group>"; };
+		4A64A3C1112095BE00D4E22D /* SGLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGLayer.h; sourceTree = "<group>"; };
+		4A64A3C2112095BE00D4E22D /* SGLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGLayer.m; sourceTree = "<group>"; };
+		4A64A3C3112095BE00D4E22D /* SGRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGRecord.h; sourceTree = "<group>"; };
+		4A64A3C4112095BE00D4E22D /* SGRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGRecord.m; sourceTree = "<group>"; };
+		4A64A3C5112095BE00D4E22D /* SGRecordAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGRecordAnnotation.h; sourceTree = "<group>"; };
+		4A64A3C6112095BE00D4E22D /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		4A64A3CA112095BE00D4E22D /* Base64Transcoder.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Base64Transcoder.c; sourceTree = "<group>"; };
+		4A64A3CB112095BE00D4E22D /* Base64Transcoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Base64Transcoder.h; sourceTree = "<group>"; };
+		4A64A3CC112095BE00D4E22D /* hmac.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = hmac.c; sourceTree = "<group>"; };
+		4A64A3CD112095BE00D4E22D /* hmac.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hmac.h; sourceTree = "<group>"; };
+		4A64A3CE112095BE00D4E22D /* sha1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sha1.c; sourceTree = "<group>"; };
+		4A64A3CF112095BE00D4E22D /* sha1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sha1.h; sourceTree = "<group>"; };
+		4A64A3F8112095BE00D4E22D /* geohash.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = geohash.c; sourceTree = "<group>"; };
+		4A64A3F9112095BE00D4E22D /* geohash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = geohash.h; sourceTree = "<group>"; };
+		4A64A401112095BE00D4E22D /* CDataScanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDataScanner.h; sourceTree = "<group>"; };
+		4A64A402112095BE00D4E22D /* CDataScanner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDataScanner.m; sourceTree = "<group>"; };
+		4A64A404112095BE00D4E22D /* CDataScanner_Extensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDataScanner_Extensions.h; sourceTree = "<group>"; };
+		4A64A405112095BE00D4E22D /* CDataScanner_Extensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDataScanner_Extensions.m; sourceTree = "<group>"; };
+		4A64A406112095BE00D4E22D /* NSCharacterSet_Extensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSCharacterSet_Extensions.h; sourceTree = "<group>"; };
+		4A64A407112095BE00D4E22D /* NSCharacterSet_Extensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSCharacterSet_Extensions.m; sourceTree = "<group>"; };
+		4A64A408112095BE00D4E22D /* NSDictionary_JSONExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSDictionary_JSONExtensions.h; sourceTree = "<group>"; };
+		4A64A409112095BE00D4E22D /* NSDictionary_JSONExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSDictionary_JSONExtensions.m; sourceTree = "<group>"; };
+		4A64A40B112095BE00D4E22D /* CJSONDeserializer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CJSONDeserializer.h; sourceTree = "<group>"; };
+		4A64A40C112095BE00D4E22D /* CJSONDeserializer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CJSONDeserializer.m; sourceTree = "<group>"; };
+		4A64A40D112095BE00D4E22D /* CJSONScanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CJSONScanner.h; sourceTree = "<group>"; };
+		4A64A40E112095BE00D4E22D /* CJSONScanner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CJSONScanner.m; sourceTree = "<group>"; };
+		4A64A40F112095BE00D4E22D /* CJSONSerializer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CJSONSerializer.h; sourceTree = "<group>"; };
+		4A64A410112095BE00D4E22D /* CJSONSerializer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CJSONSerializer.m; sourceTree = "<group>"; };
+		4A64A411112095BE00D4E22D /* SGClient_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGClient_Prefix.pch; sourceTree = "<group>"; };
+		4A64A414112095BE00D4E22D /* SGGeoJSONEncoderTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGGeoJSONEncoderTests.m; sourceTree = "<group>"; };
+		4A64A415112095BE00D4E22D /* SGLayerTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGLayerTest.m; sourceTree = "<group>"; };
+		4A64A416112095BE00D4E22D /* SGLocationServiceTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGLocationServiceTests.h; sourceTree = "<group>"; };
+		4A64A417112095BE00D4E22D /* SGLocationServiceTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGLocationServiceTests.m; sourceTree = "<group>"; };
+		4A64A418112095BE00D4E22D /* SGNearbyTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGNearbyTests.m; sourceTree = "<group>"; };
+		4A64A419112095BE00D4E22D /* SGRecordTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGRecordTests.m; sourceTree = "<group>"; };
+		4A64A50D112096BD00D4E22D /* SGClientTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SGClientTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A64A51E1120978F00D4E22D /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		4A64B4D31120A78200D4E22D /* SGAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGAdditions.h; sourceTree = "<group>"; };
+		4A64B52D1120B9CF00D4E22D /* SGClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGClient.h; sourceTree = "<group>"; };
+		4A64B5471120BB0C00D4E22D /* SGTestingMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGTestingMacros.h; sourceTree = "<group>"; };
+		4A64B56A1120BC8200D4E22D /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		4A64B5F41120D54C00D4E22D /* build_client */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = build_client; sourceTree = "<group>"; };
+		4AEDCAAE11223A80003C1949 /* MyTestingMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTestingMacros.h; sourceTree = "<group>"; };
+		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D2AAC07E0554694100DB518D /* libSGClient.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSGClient.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4A64A50A112096BD00D4E22D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4A64B5141120B99800D4E22D /* Foundation.framework in Frameworks */,
+				4A64B5151120B99800D4E22D /* CoreLocation.framework in Frameworks */,
+				4A64B56B1120BC8200D4E22D /* SenTestingKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D2AAC07C0554694100DB518D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */,
+				4A64A51F1120978F00D4E22D /* CoreLocation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		034768DFFF38A50411DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2AAC07E0554694100DB518D /* libSGClient.a */,
+				4A64A50D112096BD00D4E22D /* SGClientTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0867D691FE84028FC02AAC07 /* SGClient */ = {
+			isa = PBXGroup;
+			children = (
+				4AEDCAAE11223A80003C1949 /* MyTestingMacros.h */,
+				4A64B5F41120D54C00D4E22D /* build_client */,
+				4A64A3AA112095BE00D4E22D /* Classes */,
+				4A64A3C6112095BE00D4E22D /* README */,
+				4A64A3C7112095BE00D4E22D /* Resources */,
+				4A64A412112095BE00D4E22D /* Tests */,
+				0867D69AFE84028FC02AAC07 /* Frameworks */,
+				034768DFFF38A50411DB9C8B /* Products */,
+			);
+			name = SGClient;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AACBBE490F95108600F1A2B1 /* Foundation.framework */,
+				4A64A51E1120978F00D4E22D /* CoreLocation.framework */,
+				4A64B56A1120BC8200D4E22D /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4A64A3AA112095BE00D4E22D /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A3AB112095BE00D4E22D /* Additions */,
+				4A64A3B6112095BE00D4E22D /* LocationService */,
+				4A64A3C0112095BE00D4E22D /* Model */,
+				4A64B52D1120B9CF00D4E22D /* SGClient.h */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		4A64A3AB112095BE00D4E22D /* Additions */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A3AE112095BE00D4E22D /* GeoJSON+NSArray.h */,
+				4A64A3AF112095BE00D4E22D /* GeoJSON+NSArray.m */,
+				4A64A3B0112095BE00D4E22D /* GeoJSON+NSDictionary.h */,
+				4A64A3B1112095BE00D4E22D /* GeoJSON+NSDictionary.m */,
+				4A64A3B2112095BE00D4E22D /* NSArrayAdditions.h */,
+				4A64A3B3112095BE00D4E22D /* NSArrayAdditions.m */,
+				4A64A3B4112095BE00D4E22D /* NSStringAdditions.h */,
+				4A64A3B5112095BE00D4E22D /* NSStringAdditions.m */,
+				4A64B4D31120A78200D4E22D /* SGAdditions.h */,
+			);
+			path = Additions;
+			sourceTree = "<group>";
+		};
+		4A64A3B6112095BE00D4E22D /* LocationService */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A3B7112095BE00D4E22D /* SGAuthorization.h */,
+				4A64A3B8112095BE00D4E22D /* SGGeoJSONEncoder.h */,
+				4A64A3B9112095BE00D4E22D /* SGGeoJSONEncoder.m */,
+				4A64A3BA112095BE00D4E22D /* SGLocationService.h */,
+				4A64A3BB112095BE00D4E22D /* SGLocationService.m */,
+				4A64A3BC112095BE00D4E22D /* SGLocationTypes.h */,
+				4A64A3BD112095BE00D4E22D /* SGLocationTypes.m */,
+				4A64A3BE112095BE00D4E22D /* SGOAuth.h */,
+				4A64A3BF112095BE00D4E22D /* SGOAuth.m */,
+			);
+			path = LocationService;
+			sourceTree = "<group>";
+		};
+		4A64A3C0112095BE00D4E22D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A3C1112095BE00D4E22D /* SGLayer.h */,
+				4A64A3C2112095BE00D4E22D /* SGLayer.m */,
+				4A64A3C3112095BE00D4E22D /* SGRecord.h */,
+				4A64A3C4112095BE00D4E22D /* SGRecord.m */,
+				4A64A3C5112095BE00D4E22D /* SGRecordAnnotation.h */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		4A64A3C7112095BE00D4E22D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A3C8112095BE00D4E22D /* 3rd-Party */,
+				4A64A411112095BE00D4E22D /* SGClient_Prefix.pch */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		4A64A3C8112095BE00D4E22D /* 3rd-Party */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A3C9112095BE00D4E22D /* Crypto */,
+				4A64A3D0112095BE00D4E22D /* libgeohash */,
+				4A64A400112095BE00D4E22D /* TouchJSON */,
+			);
+			path = "3rd-Party";
+			sourceTree = "<group>";
+		};
+		4A64A3C9112095BE00D4E22D /* Crypto */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A3CA112095BE00D4E22D /* Base64Transcoder.c */,
+				4A64A3CB112095BE00D4E22D /* Base64Transcoder.h */,
+				4A64A3CC112095BE00D4E22D /* hmac.c */,
+				4A64A3CD112095BE00D4E22D /* hmac.h */,
+				4A64A3CE112095BE00D4E22D /* sha1.c */,
+				4A64A3CF112095BE00D4E22D /* sha1.h */,
+			);
+			path = Crypto;
+			sourceTree = "<group>";
+		};
+		4A64A3D0112095BE00D4E22D /* libgeohash */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A3F8112095BE00D4E22D /* geohash.c */,
+				4A64A3F9112095BE00D4E22D /* geohash.h */,
+			);
+			path = libgeohash;
+			sourceTree = "<group>";
+		};
+		4A64A400112095BE00D4E22D /* TouchJSON */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A401112095BE00D4E22D /* CDataScanner.h */,
+				4A64A402112095BE00D4E22D /* CDataScanner.m */,
+				4A64A403112095BE00D4E22D /* Extensions */,
+				4A64A40A112095BE00D4E22D /* JSON */,
+			);
+			path = TouchJSON;
+			sourceTree = "<group>";
+		};
+		4A64A403112095BE00D4E22D /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A404112095BE00D4E22D /* CDataScanner_Extensions.h */,
+				4A64A405112095BE00D4E22D /* CDataScanner_Extensions.m */,
+				4A64A406112095BE00D4E22D /* NSCharacterSet_Extensions.h */,
+				4A64A407112095BE00D4E22D /* NSCharacterSet_Extensions.m */,
+				4A64A408112095BE00D4E22D /* NSDictionary_JSONExtensions.h */,
+				4A64A409112095BE00D4E22D /* NSDictionary_JSONExtensions.m */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		4A64A40A112095BE00D4E22D /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A40B112095BE00D4E22D /* CJSONDeserializer.h */,
+				4A64A40C112095BE00D4E22D /* CJSONDeserializer.m */,
+				4A64A40D112095BE00D4E22D /* CJSONScanner.h */,
+				4A64A40E112095BE00D4E22D /* CJSONScanner.m */,
+				4A64A40F112095BE00D4E22D /* CJSONSerializer.h */,
+				4A64A410112095BE00D4E22D /* CJSONSerializer.m */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
+		4A64A412112095BE00D4E22D /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				4A64A414112095BE00D4E22D /* SGGeoJSONEncoderTests.m */,
+				4A64A415112095BE00D4E22D /* SGLayerTest.m */,
+				4A64A416112095BE00D4E22D /* SGLocationServiceTests.h */,
+				4A64A417112095BE00D4E22D /* SGLocationServiceTests.m */,
+				4A64A418112095BE00D4E22D /* SGNearbyTests.m */,
+				4A64A419112095BE00D4E22D /* SGRecordTests.m */,
+				4A64B5471120BB0C00D4E22D /* SGTestingMacros.h */,
+				4A094381115C028E007E3538 /* SGSpotRankTests.m */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D2AAC07A0554694100DB518D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4A64A41C112095BE00D4E22D /* GeoJSON+NSArray.h in Headers */,
+				4A64A41E112095BE00D4E22D /* GeoJSON+NSDictionary.h in Headers */,
+				4A64A420112095BE00D4E22D /* NSArrayAdditions.h in Headers */,
+				4A64A422112095BE00D4E22D /* NSStringAdditions.h in Headers */,
+				4A64A424112095BE00D4E22D /* SGAuthorization.h in Headers */,
+				4A64A425112095BE00D4E22D /* SGGeoJSONEncoder.h in Headers */,
+				4A64A427112095BE00D4E22D /* SGLocationService.h in Headers */,
+				4A64A429112095BE00D4E22D /* SGLocationTypes.h in Headers */,
+				4A64A42B112095BE00D4E22D /* SGOAuth.h in Headers */,
+				4A64A42D112095BE00D4E22D /* SGLayer.h in Headers */,
+				4A64A42F112095BE00D4E22D /* SGRecord.h in Headers */,
+				4A64A431112095BE00D4E22D /* SGRecordAnnotation.h in Headers */,
+				4A64A433112095BE00D4E22D /* Base64Transcoder.h in Headers */,
+				4A64A435112095BE00D4E22D /* hmac.h in Headers */,
+				4A64A437112095BE00D4E22D /* sha1.h in Headers */,
+				4A64A439112095BE00D4E22D /* geohash.h in Headers */,
+				4A64A43C112095BE00D4E22D /* CDataScanner.h in Headers */,
+				4A64A43E112095BE00D4E22D /* CDataScanner_Extensions.h in Headers */,
+				4A64A440112095BE00D4E22D /* NSCharacterSet_Extensions.h in Headers */,
+				4A64A442112095BE00D4E22D /* NSDictionary_JSONExtensions.h in Headers */,
+				4A64A444112095BE00D4E22D /* CJSONDeserializer.h in Headers */,
+				4A64A446112095BE00D4E22D /* CJSONScanner.h in Headers */,
+				4A64A448112095BE00D4E22D /* CJSONSerializer.h in Headers */,
+				4A64A44A112095BE00D4E22D /* SGClient_Prefix.pch in Headers */,
+				4A64B4D41120A78200D4E22D /* SGAdditions.h in Headers */,
+				4A64B52E1120B9CF00D4E22D /* SGClient.h in Headers */,
+				4A64B5481120BB0C00D4E22D /* SGTestingMacros.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		4A64A50C112096BD00D4E22D /* SGClientTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4A64A511112096BD00D4E22D /* Build configuration list for PBXNativeTarget "SGClientTests" */;
+			buildPhases = (
+				4A64A508112096BD00D4E22D /* Resources */,
+				4A64A509112096BD00D4E22D /* Sources */,
+				4A64A50A112096BD00D4E22D /* Frameworks */,
+				4A64A50B112096BD00D4E22D /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SGClientTests;
+			productName = SGClientTests;
+			productReference = 4A64A50D112096BD00D4E22D /* SGClientTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+		D2AAC07D0554694100DB518D /* SGClient */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "SGClient" */;
+			buildPhases = (
+				D2AAC07A0554694100DB518D /* Headers */,
+				D2AAC07B0554694100DB518D /* Sources */,
+				D2AAC07C0554694100DB518D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SGClient;
+			productName = SGClient;
+			productReference = D2AAC07E0554694100DB518D /* libSGClient.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0867D690FE84028FC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "SGClient" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 0867D691FE84028FC02AAC07 /* SGClient */;
+			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D2AAC07D0554694100DB518D /* SGClient */,
+				4A64A50C112096BD00D4E22D /* SGClientTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4A64A508112096BD00D4E22D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		4A64A50B112096BD00D4E22D /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4A64A509112096BD00D4E22D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4A64B4C11120A6D300D4E22D /* GeoJSON+NSArray.m in Sources */,
+				4A64B4C21120A6D300D4E22D /* GeoJSON+NSDictionary.m in Sources */,
+				4A64B4C31120A6D400D4E22D /* NSArrayAdditions.m in Sources */,
+				4A64B4C41120A6D500D4E22D /* NSStringAdditions.m in Sources */,
+				4A64B4C51120A6D900D4E22D /* SGOAuth.m in Sources */,
+				4A64B4C71120A6DA00D4E22D /* SGLocationService.m in Sources */,
+				4A64B4C91120A6DE00D4E22D /* SGRecord.m in Sources */,
+				4A64B4CA1120A6DF00D4E22D /* SGLayer.m in Sources */,
+				4A64B5571120BB8B00D4E22D /* Base64Transcoder.c in Sources */,
+				4A64B5581120BB8C00D4E22D /* CDataScanner.m in Sources */,
+				4A64B5591120BB8C00D4E22D /* CDataScanner_Extensions.m in Sources */,
+				4A64B55A1120BB8D00D4E22D /* CJSONDeserializer.m in Sources */,
+				4A64B55B1120BB8E00D4E22D /* CJSONScanner.m in Sources */,
+				4A64B55C1120BB8F00D4E22D /* CJSONSerializer.m in Sources */,
+				4A64B55D1120BB8F00D4E22D /* geohash.c in Sources */,
+				4A64B55E1120BB9000D4E22D /* sha1.c in Sources */,
+				4A64B55F1120BB9100D4E22D /* NSDictionary_JSONExtensions.m in Sources */,
+				4A64B5601120BB9100D4E22D /* NSCharacterSet_Extensions.m in Sources */,
+				4A64B5611120BB9200D4E22D /* hmac.c in Sources */,
+				4AE03B69115547EC00096B6E /* SGLocationTypes.m in Sources */,
+				4AE03B6A115547ED00096B6E /* SGGeoJSONEncoder.m in Sources */,
+				4A0943BD115C17CB007E3538 /* SGNearbyTests.m in Sources */,
+				4A1B13761162AA8300E194F1 /* SGLocationServiceTests.m in Sources */,
+				4A1B13991162B64000E194F1 /* SGGeoJSONEncoderTests.m in Sources */,
+				4A1B139A1162B64100E194F1 /* SGLayerTest.m in Sources */,
+				4A1B139B1162B64200E194F1 /* SGRecordTests.m in Sources */,
+				4A1B139C1162B64300E194F1 /* SGSpotRankTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D2AAC07B0554694100DB518D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4A64A41D112095BE00D4E22D /* GeoJSON+NSArray.m in Sources */,
+				4A64A41F112095BE00D4E22D /* GeoJSON+NSDictionary.m in Sources */,
+				4A64A421112095BE00D4E22D /* NSArrayAdditions.m in Sources */,
+				4A64A423112095BE00D4E22D /* NSStringAdditions.m in Sources */,
+				4A64A426112095BE00D4E22D /* SGGeoJSONEncoder.m in Sources */,
+				4A64A428112095BE00D4E22D /* SGLocationService.m in Sources */,
+				4A64A42A112095BE00D4E22D /* SGLocationTypes.m in Sources */,
+				4A64A42C112095BE00D4E22D /* SGOAuth.m in Sources */,
+				4A64A42E112095BE00D4E22D /* SGLayer.m in Sources */,
+				4A64A430112095BE00D4E22D /* SGRecord.m in Sources */,
+				4A64A432112095BE00D4E22D /* Base64Transcoder.c in Sources */,
+				4A64A434112095BE00D4E22D /* hmac.c in Sources */,
+				4A64A436112095BE00D4E22D /* sha1.c in Sources */,
+				4A64A438112095BE00D4E22D /* geohash.c in Sources */,
+				4A64A43D112095BE00D4E22D /* CDataScanner.m in Sources */,
+				4A64A43F112095BE00D4E22D /* CDataScanner_Extensions.m in Sources */,
+				4A64A441112095BE00D4E22D /* NSCharacterSet_Extensions.m in Sources */,
+				4A64A443112095BE00D4E22D /* NSDictionary_JSONExtensions.m in Sources */,
+				4A64A445112095BE00D4E22D /* CJSONDeserializer.m in Sources */,
+				4A64A447112095BE00D4E22D /* CJSONScanner.m in Sources */,
+				4A64A449112095BE00D4E22D /* CJSONSerializer.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB921F08733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/SGClient.dst;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Resources/SGClient_Prefix.pch;
+				GCC_PREPROCESSOR_DEFINITIONS = "SG_DEBUG=1";
+				HEADER_SEARCH_PATHS = Classes;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = SGClient;
+			};
+			name = Debug;
+		};
+		1DEB922008733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				DSTROOT = /tmp/SGClient.dst;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Resources/SGClient_Prefix.pch;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = SGClient;
+			};
+			name = Release;
+		};
+		1DEB922308733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "-ObjC";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.2;
+			};
+			name = Debug;
+		};
+		1DEB922408733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "-ObjC";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.2;
+			};
+			name = Release;
+		};
+		4A64A50F112096BD00D4E22D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Resources/SGClient_Prefix.pch;
+				GCC_PREPROCESSOR_DEFINITIONS = "SG_DEBUG=1";
+				HEADER_SEARCH_PATHS = (
+					"Tests/**",
+					"Classes/**",
+					"Resources/3rd-Party/**",
+				);
+				INFOPLIST_FILE = "";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					SenTestingKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = SGClientTests;
+				SDKROOT = iphoneos3.1;
+				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		4A64A510112096BD00D4E22D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				INFOPLIST_FILE = "SGClientTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					SenTestingKit,
+					"-framework",
+					UIKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = SGClientTests;
+				SDKROOT = iphoneos3.1;
+				VERSION_INFO_PREFIX = Resources/SGClient_Prefix.pch;
+				WRAPPER_EXTENSION = octest;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "SGClient" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB921F08733DC00010E9CD /* Debug */,
+				1DEB922008733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "SGClient" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB922308733DC00010E9CD /* Debug */,
+				1DEB922408733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4A64A511112096BD00D4E22D /* Build configuration list for PBXNativeTarget "SGClientTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4A64A50F112096BD00D4E22D /* Debug */,
+				4A64A510112096BD00D4E22D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0867D690FE84028FC02AAC07 /* Project object */;
+}

@@ -1,0 +1,48 @@
+8
+
+dir
+18
+https://opensocial-objc-client.googlecode.com/svn/trunk/TouchJSON
+https://opensocial-objc-client.googlecode.com/svn
+
+
+
+2009-02-06T00:32:08.031517Z
+4
+doll.cassie
+
+
+svn:special svn:externals svn:needs-lock
+
+Extensions
+dir
+
+CDataScanner.m
+file
+
+
+
+
+2009-02-10T03:05:44.000000Z
+e613e9df7ff62a6fa15fbdad7c528df1
+2009-02-06T00:32:08.031517Z
+4
+doll.cassie
+has-props
+
+JSON
+dir
+
+CDataScanner.h
+file
+
+
+
+
+2009-02-10T03:05:44.000000Z
+c71953c6456d1274ca104a766fa1ebda
+2009-02-06T00:32:08.031517Z
+4
+doll.cassie
+has-props
+

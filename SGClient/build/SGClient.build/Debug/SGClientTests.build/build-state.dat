@@ -1,0 +1,19 @@
+TSGClientTests
+v7
+r1
+
+N/Users/lsta/Code/SGClient/build/Debug/SGClientTests.octest
+t2
+s0
+
+N/Users/lsta/Code/SGClient/build/SGClient.build/Debug/SGClientTests.build/Script-4A64A50B112096BD00D4E22D.sh
+c00000000000000000000000000000000
+t2
+s0
+
+CPhaseScriptExecution "Run Script" /Users/lsta/Code/SGClient/build/SGClient.build/Debug/SGClientTests.build/Script-4A64A50B112096BD00D4E22D.sh
+r0
+
+CTouch /Users/lsta/Code/SGClient/build/Debug/SGClientTests.octest
+r0
+

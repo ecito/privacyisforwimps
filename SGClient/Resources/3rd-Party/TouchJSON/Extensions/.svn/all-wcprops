@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/TouchJSON/Extensions
+END
+CDataScanner_Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/TouchJSON/Extensions/CDataScanner_Extensions.m
+END
+NSCharacterSet_Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/TouchJSON/Extensions/NSCharacterSet_Extensions.m
+END
+NSDictionary_JSONExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/TouchJSON/Extensions/NSDictionary_JSONExtensions.h
+END
+NSDictionary_JSONExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+END
+CDataScanner_Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/TouchJSON/Extensions/CDataScanner_Extensions.h
+END
+NSCharacterSet_Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/TouchJSON/Extensions/NSCharacterSet_Extensions.h
+END
